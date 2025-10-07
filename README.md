@@ -1,12 +1,11 @@
-# 🩷 Hi, I’m Caline Kilejian
-
 <p align="center">
-  <img src="https://media.giphy.com/media/i1xNYj8xdUmR7z3CrH/giphy.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2YWcydmNpM3lpaDh4NDZlejRtaHBoeDlhMGg1OGczYTViMGd2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/LBPi9kAlVrYkf4bmPs/giphy.gif" width="400"/>
 </p>
 
-
- I’m a **Computer Engineering student at Concordia University, Montreal**, currently completing my BEng.  
- I’m passionate about **AI-driven systems**, **embedded design**, and **full-stack development**, especially when technology is used to solve real social or environmental problems.
+<h1 align="center">🩷 Hi, I'm Caline Kilejian </h1>
+<p align="center">
+  <em>Computer Engineering @ Concordia | AI • Embedded Systems • Full-Stack</em>
+</p>
 
 ---
 
@@ -43,9 +42,9 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 
 ## Current Focus
 
-🌸 Developing stronger **ML and embedded software** foundations  
-🌸 Gaining **industry experience** through co-op and research opportunities  
-🌸 Expanding my **open-source contributions** and documenting my projects clearly  
+🩷 Developing stronger **ML and embedded software** foundations  
+🩷 Gaining **industry experience** through co-op and research opportunities  
+🩷 Expanding my **open-source contributions** and documenting my projects clearly  
 
 ---
 
