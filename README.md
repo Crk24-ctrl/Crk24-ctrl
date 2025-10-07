@@ -43,8 +43,8 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 ## Current Focus
 
 🩷 Developing stronger **ML and embedded software** foundations  
-🩷 Gaining **industry experience** through co-op and research opportunities  
-🩷 Expanding my **open-source contributions** and documenting my projects clearly  
+🩷 Gaining **industry experience** through co-opc, tech competitions and research opportunities  
+🩷 Working on **personal projects** and documenting them clearly  
 
 ---
 
