@@ -53,4 +53,4 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 
 ---
 
-⭐ _"Engineering is not just about building systems — it’s about improving lives."_  
+⭐ _"Engineering is not just about building systems, it’s about improving lives."_  
