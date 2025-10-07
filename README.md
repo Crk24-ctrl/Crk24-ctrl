@@ -11,10 +11,10 @@
 
 ## 🩷 About Me
 
-- I enjoy building **practical and meaningful tech projects** — from front-end interfaces to machine learning backends.
-- I previously led a community-focused initiative, **MealMission**, aimed at reducing food waste through AI and AWS cloud.
-- Experienced in teamwork and leadership — through **Women in Engineering**, **IEEE**, **ACM** and volunteer coordination roles.
-- Currently exploring the intersection of **machine learning, embedded systems, and product management**.
+🌸 I enjoy building **practical and meaningful tech projects** from front-end interfaces to machine learning backends.
+🌸 I previously led a community-focused initiative, **MealMission**, aimed at reducing food waste through AI and AWS cloud.
+🌸 Experienced in teamwork and leadership through **Women in Engineering**, **IEEE**, **ACM** and volunteer coordination roles.
+🌸 Currently exploring the intersection of **machine learning, embedded systems, and product management**.
 
 ---
 
@@ -33,10 +33,10 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 
 ## Featured Projects
 
-🩷 **MealMission** – A smart food donation platform integrating AWS services and ML for food waste reduction  
-🩷 **DealFinder** – A web scraper that compares real-time Lebanese e-commerce deals  
-🩷 **FloraFinder** – A plant identification app using image classification and a React-based interface  
-🩷 **FPGA Projects** – Implementations of combinational and sequential circuits using VHDL on Nexys A7 and Verilog 
+🩷 **MealMission**: A smart food donation platform integrating AWS services and ML for food waste reduction  
+🩷 **DealFinder**: A web scraper that compares real-time Lebanese e-commerce deals  
+🩷 **FloraFinder**: A plant identification app using image classification and a React-based interface  
+🩷 **FPGA Projects**: Implementations of combinational and sequential circuits using VHDL on Nexys A7 and Verilog 
 
 ---
 
