@@ -11,10 +11,10 @@
 
 ## 🩷 About Me
 
-🌸 I enjoy building **practical and meaningful tech projects** from front-end interfaces to machine learning backends.
-🌸 I previously led a community-focused initiative, **MealMission**, aimed at reducing food waste through AI and AWS cloud.
-🌸 Experienced in teamwork and leadership through **Women in Engineering**, **IEEE**, **ACM** and volunteer coordination roles.
-🌸 Currently exploring the intersection of **machine learning, embedded systems, and product management**.
+- 🌸 I enjoy building **practical and meaningful tech projects** from front-end interfaces to machine learning backends.
+- 🌸 I previously led a community-focused initiative, **MealMission**, aimed at reducing food waste through AI and AWS cloud.
+- 🌸 Experienced in teamwork and leadership through **Women in Engineering**, **IEEE**, **ACM** and volunteer coordination roles.
+- 🌸 Currently exploring the intersection of **machine learning, embedded systems, and product management**.
 
 ---
 
