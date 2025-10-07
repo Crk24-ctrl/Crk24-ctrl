@@ -21,7 +21,7 @@
 ## Tech Stack
 
 **Languages:**  
-C++, Python, VHDL, JavaScript, Java, TypeScript, HTML/CSS, SQL  
+C++, Python, VHDL, Verilog, JavaScript, Java, TypeScript, HTML/CSS, SQL  
 
 **Frameworks & Tools:**  
 React.js, Next.js, AWS (Lambda, DynamoDB, S3, Amplify, SageMaker), Node.js, Git/GitHub, Vivado, ModelSim  
