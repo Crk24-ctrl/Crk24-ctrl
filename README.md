@@ -1,8 +1,9 @@
 # 🩷 Hi, I’m Caline Kilejian
 
 <p align="center">
-  <img src="https://giphy.com/gifs/PembeThePinkCat-pembe-the-pink-cat-i1xNYj8xdUmR7z3CrH" width="250"/>
+  <img src="https://media.giphy.com/media/i1xNYj8xdUmR7z3CrH/giphy.gif" width="250"/>
 </p>
+
 
  I’m a **Computer Engineering student at Concordia University, Montreal**, currently completing my BEng.  
  I’m passionate about **AI-driven systems**, **embedded design**, and **full-stack development**, especially when technology is used to solve real social or environmental problems.
