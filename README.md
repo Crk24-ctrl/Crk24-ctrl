@@ -51,7 +51,7 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/caline-kilejian-974b40327/)  
-[GitHub](https://github.com/Crk24-ctrl)  
+[Discord](https://discordapp.com/users/caline_k)  
 
 🩷 Always open to discussing collaborations, AI for social good, and creative engineering ideas.
 
