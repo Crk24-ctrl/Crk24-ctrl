@@ -10,10 +10,12 @@
 
 <hr />
 
-
 <p align="center">
-  <img src=[(https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=jolly&fontFamily=Alice&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)/>
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=jolly&fontFamily=Alice&showIcons=false&preferLogin=false&Background=FFBEDC" />
+  </a>
 </p>
+
 
 
 ## 🩷 About Me
