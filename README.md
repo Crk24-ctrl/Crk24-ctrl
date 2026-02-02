@@ -11,7 +11,9 @@
 <hr />
 
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&preferLogin=false&theme=pink" alt="Caline's GitHub stats"/>
+<p align="center">
+  <img src=[(https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=jolly&fontFamily=Alice&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)/>
+</p>
 
 
 ## 🩷 About Me
