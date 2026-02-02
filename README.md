@@ -9,8 +9,9 @@
 
 ---
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine" width="450"/>
 </p>
+
 
 ## 🩷 About Me
 
