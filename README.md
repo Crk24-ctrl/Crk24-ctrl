@@ -8,6 +8,7 @@
 </p>
 
 ---
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&preferLogin=false&theme=radical" />
 
 ## 🩷 About Me
 
