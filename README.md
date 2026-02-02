@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2YWcydmNpM3lpaDh4NDZlejRtaHBoeDlhMGg1OGczYTViMGd2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/LBPi9kAlVrYkf4bmPs/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2YWcydmNpM3lpaDh4NDZlejRtaHBoeDlhMGg1OGczYTViMGd2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/LBPi9kAlVrYkf4bmPs/giphy.gif" width="400" />
 </p>
 
-<h1 align="center">🩷 Hi, I'm Caline Kilejian </h1>
+<h1 align="center">🩷 Hi, I'm Caline Kilejian</h1>
+
 <p align="center">
   <em>Computer Engineering @ Concordia | AI • Embedded Systems • Full-Stack</em>
 </p>
 
----
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine&v=1" />
-</p>
+<hr />
 
+<p align="center">
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine&v=2"
+    alt="Caline's GitHub stats"
+  />
+</p>
 
 ## 🩷 About Me
 
@@ -40,14 +44,14 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 🩷 **MealMission**: A smart food donation platform integrating AWS services and ML for food waste reduction  
 🩷 **DealFinder**: A web scraper that compares real-time Lebanese e-commerce deals  
 🩷 **FloraFinder**: A plant identification app using image classification and a React-based interface  
-🩷 **FPGA Projects**: Implementations of combinational and sequential circuits using VHDL on Nexys A7 and Verilog 
+🩷 **FPGA Projects**: Implementations of combinational and sequential circuits using VHDL on Nexys A7 and Verilog  
 
 ---
 
 ## Current Focus
 
 🩷 Developing stronger **ML and embedded software** foundations  
-🩷 Gaining **industry experience** through co-opc, tech competitions and research opportunities  
+🩷 Gaining **industry experience** through co-op, tech competitions and research opportunities  
 🩷 Working on **personal projects** and documenting them clearly  
 
 ---
@@ -61,4 +65,4 @@ UI/UX Design (Figma), Project Management, Technical Writing, Cloud Architecture,
 
 ---
 
-🩷 _My definition of "la vie en rose" is pink theme on VS Code_  
+🩷 _My definition of "la vie en rose" is pink theme on VS Code_
