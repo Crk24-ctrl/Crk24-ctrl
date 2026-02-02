@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=jolly&fontFamily=Alice&showIcons=false&preferLogin=false&Background=FFBEDC" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=jolly&fontFamily=Alice&showIcons=false&preferLogin=false&Background=FFBEE1FF" />
   </a>
 </p>
 
