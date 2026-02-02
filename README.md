@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine" width="450"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/crk24-ctrl?cardType=level&theme=rose_pine&v=1" />
 </p>
 
 
